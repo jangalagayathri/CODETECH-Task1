@@ -28,4 +28,10 @@ JAVA DEVELOPMENT KIT.
 
 SIMPLE CALCULATOR PROGRAM OUTPUT:
  ![SC OUTPUT](https://github.com/user-attachments/assets/8377470b-55b7-4e91-b584-b0e4c87b5fc9)
+ ![SC OUTPUT2 ](https://github.com/user-attachments/assets/501b416c-18ef-402b-a11f-d3a726704930)
+ ![SC OUTPUT 3](https://github.com/user-attachments/assets/8339553c-49e3-42b3-9239-c53821794f04)
+ ![SC OUTPUT 4](https://github.com/user-attachments/assets/d36ac05f-d47d-46dc-8a4c-3adbc80c1a7d)
+
+
+
 
